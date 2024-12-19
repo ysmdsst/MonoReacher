@@ -1,8 +1,8 @@
 {
-  "name": "MaminoTe",
+  "name": "MonoReacher",
   "version": "2.0",
   "manifest_version": 3,
-  "description": "翻訳、文字数カウント、ページジャンプ機能を統合したChrome拡張機能。",
+  "description": "あなたのネットサーフィンをほんの少しだけ便利に",
   "permissions": ["contextMenus", "activeTab", "scripting", "storage"],
   "host_permissions": ["<all_urls>"],
   "action": {
